@@ -1,5 +1,8 @@
 ### Hi there 👋, I am Mikus Kukainis, welcome to my GitHub profile!
 
+## About me:
+Passionate about tackling complex challenges and dedicated to continuous improvement, I am a Software Developer with a drive to make a difference through innovative solutions. Embracing the journey as much as the destination, I find joy in the process of growth and learning.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikus-kukainis/)
 
